@@ -1,0 +1,115 @@
+h1 {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: #264653;
+}
+
+h2 {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-size: 38px;
+  color: #264653;
+}
+
+h3 {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: regualr;
+  font-size: 48px;
+  color: #264653;
+}
+
+h4 {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 200;
+  font-size: 28px;
+  color: #264653;
+  margin: 28px 0px 20px;
+}
+
+h5 {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #264653;
+  text-align: right;
+}
+
+body {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 300;
+  color: #220d04;
+}
+
+.daily-details {
+  font-weight: bold;
+}
+
+.weekly-temps {
+  font-style: italic;
+  font-size: 14px;
+}
+
+img {
+}
+
+.today-weather {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 300;
+  color: #264653;
+}
+
+.today-icon {
+  color: #e9c46a;
+  font-size: 100px;
+  display: block;
+}
+
+.weekly-icon {
+  color: #220d04;
+  font-size: 18px;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  color: #7c7c7c;
+  font-size: 16px;
+  font-weight: 100;
+  height: 19px;
+  line-height: 1;
+  list-style: none;
+}
+
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.weather-icon {
+  height: 64px;
+  width: 64px;
+  margin-right: 10px;
+}
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+}
+
+.search-form {
+  margin-bottom: 20px;
+}
